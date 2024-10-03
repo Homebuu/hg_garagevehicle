@@ -16,3 +16,5 @@ ensure hg_garage
 5. The script has no loops. Already reduced.
 
 
+
+[![hg_garage](https://img5.pic.in.th/file/secure-sv1/image243d2f43f1a1855f.png)](https://cdn.discordapp.com/attachments/1071649304013451355/1151774774805143623/Microsoft_Teams_2023.09.14_-_13.39.18.01.mp4?ex=66feea19&is=66fd9899&hm=574a0855cacc5f175be6490dd3dfecfdabb6d3bbf33f9a988fe1d42a26e186e0&)
