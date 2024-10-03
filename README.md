@@ -7,7 +7,7 @@ The Garage script pulls the player's available vehicle information into SQL for 
 1. Clone or download this repository to your local machine.
 2. Navigate to the directory containing the script.
 3. Place the script in Your main script
-4. Change the pod name to `hg_garage` or it won't run.
+4. Change the rename to `hg_garage` or it won't run.
 5. Run Fxserver 
 ```bash
 ensure hg_garage
